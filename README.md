@@ -25,7 +25,11 @@ Following is the dashboard on sale analytics of Walmart made during the sessio
 Power BI is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website.
 
 **Requirement for building this :** 
+
 Power BI desktop
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Link to access the dashboard**
